@@ -1,0 +1,22 @@
+{
+  "name": "etiquetas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "dafiti": "0.0.4",
+    "express": "^4.17.1",
+    "jsbarcode": "^3.11.4",
+    "pdfkit": "^0.12.1",
+    "svg-to-pdfkit": "^0.1.8",
+    "xmldom": "^0.6.0"
+  }
+}
